@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Thanks to all of you. I had a wonderful time!
